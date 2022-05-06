@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Injamul Hasan</h1>
-<h3 align="center">Cyber-Security Enthusiast well versed in System Administration , Networking , Python with libraries , Flask , SQL , Cloud , Server and Linux . An Undergrad Computer Science Student at BRAC Universityd in Python with libraries , Flask , SQL, Tableau . I love solving problems using Machine Learning and represent Data in a meaningful way.An Undergrad Computer Science Student at BRAC University .</h3>
+<h3 align="center">Cyber-Security Enthusiast well versed in System Administration , Networking , Python with libraries , Flask , SQL , Cloud , Server and Linux . An Undergrad Computer Science Student at BRAC University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=injamulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="injamulhasan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@injamulhasan_" target="blank"><img src="https://img.shields.io/twitter/follow/@injamulhasan_?logo=twitter&style=for-the-badge" alt="@injamulhasan_" /></a> </p>
 
 - 🔭 I’m currently working on [COVID-19 data exploration](https://github.com/Injamulhasan/Covid-19-DataExploration)
 
