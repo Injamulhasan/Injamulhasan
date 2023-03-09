@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px">, I'm Injamul Hasan</h1>
+<h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="50px" width="50px">, I'm Injamul Hasan</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
