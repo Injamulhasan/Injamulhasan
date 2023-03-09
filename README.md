@@ -33,7 +33,7 @@
 - 👨‍💻 All of my projects are available at [https://injamulhasan.github.io/](https://injamulhasan.github.io/)
 
 - 💬 Ask me about `Softwere Development`,`Web & API Devlopment`
- `DevOps`, `Cloud(GCP,Azure,AWS)`.
+ `DevOps`  `Cloud(GCP,Azure,AWS)`.
 - 📫 How to reach me -
 ```
 injamulhasanakash@yahoo.com
