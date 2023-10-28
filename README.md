@@ -67,11 +67,9 @@
 
 </br>
 
-
-                            
-                            Talks about Problem solving, WebDev, Database, API, Linux, Cloud. 
-                            Currently Working in Backend focused Full Stack Web Application Development.
-                            Pursuing my Bachelor's Degree in Computer Science at BRAC University.
+`Talks about Problem solving, WebDev, Database, API, Linux, Cloud.
+  Currently Working in Backend focused Full Stack Web Application Development.
+  Pursuing my Bachelor's Degree in Computer Science at BRAC University.` 
                         
 
 <br>
