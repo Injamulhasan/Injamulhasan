@@ -20,7 +20,7 @@
 <div align=center>
     <h5 >🥅 Work</h5>  
 
-![fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) ![upwork]( https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </br>
+![fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) ![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </br>
 </div>
 <hr>
 
@@ -98,10 +98,13 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 <hr>
 
+<p align="center">
+  <a href="[https://github.com/Injamulhasan]"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Injamulhasan&theme=blue-green" />
+</a> 
+    
 - 💬 Ask me about `Softwere Development`,`Web & API Devlopment` ,`Python Development`, `Cloud Concept(GCP)`.
   
 - 📫 How to reach me -
 ```
 injamulhasanakash@yahoo.com
 ```
-  
