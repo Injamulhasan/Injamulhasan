@@ -25,7 +25,7 @@
 <hr>
 
 
-<h3 align="center">Languages , Technologies and Tools:</h3>
+<h3 align="center">Languages  and Technologies :</h3>
 
 
 - Language : </br>
