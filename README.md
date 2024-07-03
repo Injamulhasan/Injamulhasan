@@ -65,7 +65,7 @@
 
 <hr>
 
- - 💻 I'm a `self-taught Web Developer` 🌱 An `Open-Source Enthusiast`.
+ - 💻 I'm a `Progressive self-taught Web Developer` 🌱 An `Open-Source Enthusiast`.
  - 🤖 I love to work with new advances and playing with various stacks .
  - 🦾 Having some expertise in `Front End Development`. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including `HTML5`, `CSS3`, `JavaScript`, `ReactJS`, `NodeJS`,       `MongoDB`, `MySQL` and so on .
  - 📢 Talks about `Problem solving`, `WebDev`, `Database`, `API`, `Linux`, `Cloud`.
