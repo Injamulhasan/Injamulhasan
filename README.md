@@ -8,8 +8,8 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 
 <div align=center>
-    <h4 >🥅 Work</h4>  
-
+    <h3 >🥅 Work</h3>  
+    
 ![fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) ![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </br>
 </div>
 
@@ -63,7 +63,7 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 
 <div align=center>
-    <h4 > 🚀 Technologies </h4>  
+    <h3 > 🚀 Technologies </h3>  
     
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -115,7 +115,7 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 <hr>
 
-<h3 align="center"> 📫 Connect with me:</h3>
+<h3 align="center"> 📫 Connect with me</h3>
     
 ```
 injamulhasanakash@yahoo.com
