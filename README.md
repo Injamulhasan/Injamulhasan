@@ -9,7 +9,7 @@
 
 
 <div align=center>
-    <h5 >🥅 Work</h5>  
+    <h4 >🥅 Work</h4>  
 
 ![fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) ![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </br>
 </div>
@@ -24,23 +24,24 @@
 
  - 💻 I'm a `Progressive softwere engineer & self-taught Web Developer` 🌱 An `Open-Source Enthusiast`.
  - 🤖 I love to work with new advances and playing with various stacks .
- - 🦾 Having some expertise in `Front End Development`. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including `HTML5`, `CSS3`, `JavaScript`, `ReactJS`, `NodeJS`,       `MongoDB`, `MySQL` and so on .
+ - 🦾 Having some expertise in `Front End Development`. Experienced with various ways to deal with the advancement of ` responsive & dynamic web ` projects. Knowledgeable in various ` programming dialects and libraries `.
  - 📢 Talks about `Problem solving`, `WebDev`, `Database`, `API`, `Linux`, `Cloud`.
  - 🏛  `Undergraduate in Computer Science at BRAC University`.
- - ⛳️ Currently focusing on <!--`Web Application Development`, Frontend `HTML5, CSS3, Javascript, Bootstrap, Tailwind , ReactJS`,--> Backend `Python | Django | Flask | Streamlit` and its libraries , `API Integration & Development` & `Cloud Computing.` 
+ - ⛳️ Currently focusing on <!--`Web Application Development`, Frontend ` Tailwind , ReactJS`,--> Backend ` Nodejs | Django ` and its libraries , `API Integration & Development` & `Cloud Computing.` 
                         
 <hr>
 
-
-- Language : </br>
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
-<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
-
-
-- Technologies : </br>
 <!-- 
+- Language : </br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+-->
+
+<!-- 
+- Technologies : </br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -60,6 +61,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 -->
 
+
+<div align=center>
+    <h4 > 🚀 Technologies </h4>  
+    
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,21 +72,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) </br>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</br>
+</div>
+
 
 <hr>
 
-
-
-</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@injamulhasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@injamulhasan_" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/injamul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="injamul hasan" height="15" width="15" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@sayhelloworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayhelloworld" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/injamul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="injamul hasan" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/#3667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3667" height="15" width="15" /></a>
-</p>
 
 - 👨‍💻 All of my projects are available at [https://injamulhasan.github.io/](https://injamulhasan.github.io/)
 
@@ -115,8 +111,21 @@
 </p>
     
 - 💬 Ask me about `Softwere Development`,`Web & API Devlopment` ,`Python Development`, `Cloud Concept(GCP)`.
-  
-- 📫 How to reach me -
+
+
+<hr>
+
+<h3 align="center"> 📫 Connect with me:</h3>
+    
 ```
 injamulhasanakash@yahoo.com
 ```
+
+<p align="center">
+<a href="https://twitter.com/@injamulhasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@injamulhasan_" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/injamul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="injamul hasan" height="15" width="15" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@sayhelloworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sayhelloworld" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/injamul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="injamul hasan" height="15" width="15" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/#3667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3667" height="15" width="15" /></a>
+</p>
