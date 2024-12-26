@@ -63,7 +63,7 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 
 <div align=center>
-    <h3 > 🚀 Technologies </h3>  
+    <h3 > 🚀 Tech Stack </h3>  
     
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
