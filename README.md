@@ -9,8 +9,7 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 
 <div align=center>
     <h3 >🥅 Work</h3>  
-    
-![fiver](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white) ![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) </br>
+@Backbencher Studio
 </div>
 
 <hr>
