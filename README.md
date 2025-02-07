@@ -72,6 +72,9 @@ Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </br>
+![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-146EF5?style=flat&logo=webflow&logoColor=white)
+
 </div>
 
 
